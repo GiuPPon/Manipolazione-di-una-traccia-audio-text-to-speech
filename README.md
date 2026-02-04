@@ -1,6 +1,7 @@
 # Manipolazione-di-una-traccia-audio-text-to-speech
 
 Questo progetto è stato implementato durante il corso di Fondamenti dell'Elaborazione di Segnali ed Immagini (FESI).<br>
+Il progetto completo si trova nel file "FESI_details", mentre il riassunto che ho presentato é nel file "FESI_pitch".<br>
 Il tema del progetto è il seguente:
 
 "TEMA 1 - MusicLab - Segnali Vocali e Musicali    
