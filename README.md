@@ -3,7 +3,7 @@
 Questo progetto è stato implementato durante il corso di Fondamenti dell'Elaborazione di Segnali ed Immagini (FESI).<br>
 Il progetto completo si trova nel file "FESI_details", mentre il riassunto che ho presentato é nel file "FESI_pitch".<br>
 <br>
-All'interno del repository potete trovare i codici dei due notebook, ma per problemi di compatibilità tra GitHub e alcune librerie che ho utilizzato, potrebbero non essere visualizzabili o interagibili. Pe poter interagire con gli sliders, presenti nel notebook completo "FESI_details", e per poter ascoltare gli audio lascio qui i link del [FESI_details](https://colab.research.google.com/drive/1D3930wBjyjUWGQPjRgx-4-rGkwWYCann?usp=sharing) e di [FESI_pitch](https://colab.research.google.com/drive/18hje8qpQu7BzCfpCXrDOKF2hKzLIeGdr?usp=sharing).
+All'interno del repository trovate i notebook, ma gli audio potrebbero non essere riproducibili: cosniglio quindi di accedere al link di Google Colab.
 
 <br>
 Il tema del progetto è il seguente:
