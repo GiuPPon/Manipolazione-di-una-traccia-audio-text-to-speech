@@ -3,7 +3,7 @@
 Questo progetto è stato implementato durante il corso di Fondamenti dell'Elaborazione di Segnali ed Immagini (FESI).<br>
 Il progetto completo si trova nel file "FESI_details", mentre il riassunto che ho presentato é nel file "FESI_pitch".<br>
 <br>
-All'interno del repository trovate i notebook, ma gli audio potrebbero non essere riproducibili: cosniglio quindi di accedere al link di Google Colab.
+All'interno del repository trovate i notebook, ma gli audio potrebbero non essere riproducibili: consiglio quindi di accedere ai link di Google Colab.
 
 <br>
 Il tema del progetto è il seguente:
